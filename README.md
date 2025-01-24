@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### 📊 Estadísticas de GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DannaPatricia&show_icons=true&theme=radical)
+
+### 🎯 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaPatricia&layout=compact&theme=radical)
