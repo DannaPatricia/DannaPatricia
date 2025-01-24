@@ -36,7 +36,7 @@ Aquí tienes algunos proyectos en los que he trabajado:
 ## 🌐 Encuéntrame en
 
 - [🔗 **LinkedIn**](https://www.linkedin.com/in/dannapatricia/)
-- [💼 **Portfolio**](https://www.tu-portfolio.com)
+- [💼 **Portfolio**](https://dannapatricia.github.io/DannaPatriciaPortafolio/)
 - [📧 **Email**](mailto:dannapatriciacm@gmail.com)
 
 
