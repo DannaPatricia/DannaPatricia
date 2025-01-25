@@ -24,9 +24,9 @@ Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluc
 
 Aquí tienes algunos proyectos en los que he trabajado:
 
-1. [**🗓️ Game Center**]: Una aplicación de venta y promoción de productos gaming, implementa base de datos con PhpMyAdmin (En proceso).
-2. [**📊 Gestiona Cursos**]: Una aplicación de gestión de cursos para profesores que implementa una base de datos y usuarios (En proceso).
-3. [**🌍 Gestión de movilidad**]: Aplicación degestión de tráfico, hace uso de lectura y escritura de ficheros.
+1. [**🗓️ Game Center**](https://github.com/DannaPatricia/game-center): Una aplicación de venta y promoción de productos gaming, implementa base de datos con PhpMyAdmin (En proceso).
+2. [**📊 Gestiona Cursos**](https://github.com/DannaPatricia/gestion-cursos): Una aplicación de gestión de cursos para profesores que implementa una base de datos y usuarios (En proceso).
+3. [**🌍 Gestión de movilidad**](https://github.com/DannaPatricia/gestion-movilidad): Aplicación degestión de tráfico, hace uso de lectura y escritura de ficheros.
    
 
 ## 🎓 Formación
