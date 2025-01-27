@@ -32,6 +32,8 @@ Aquí tienes algunos proyectos en los que he trabajado:
 ## 🎓 Formación
 
 - 🎓 **Grado de Desarrollo de Aplicaciones Web** | 2023 - 2025
+- 🎓 **Bachillerato de ciencias** | 2021 - 2023
+
 
 ## 🌐 Encuéntrame en
 
