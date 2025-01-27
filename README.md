@@ -67,11 +67,14 @@ Si estás interesado/a en conectar, colaborar o discutir sobre tecnología, no d
 
 ---
 
-> **"El código es como el humor. Cuando tienes que explicarlo, es porque no es bueno."** – Cory House
-
----
 ### 📊 Estadísticas de GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DannaPatricia&show_icons=true&theme=radical)
 
 ### 🎯 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaPatricia&layout=compact&theme=radical)
+
+---
+
+> **"El código es como el humor. Cuando tienes que explicarlo, es porque no es bueno."** – Cory House
+
+---
