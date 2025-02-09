@@ -94,5 +94,5 @@ Si estás interesado/a en conectar, colaborar o discutir sobre tecnología, no d
 
 ---
 
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=DannaPatricia&bg_color=FFFFFF&color=08a2e0&line=08a2e0&point=000000&area=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestiona-cursos)](https://github.com/DannaPatricia/gestiona-cursos)
 
