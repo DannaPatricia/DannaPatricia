@@ -94,5 +94,5 @@ Si estás interesado/a en conectar, colaborar o discutir sobre tecnología, no d
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestiona-cursos)](https://github.com/DannaPatricia/gestiona-cursos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestion-cursos)](https://github.com/DannaPatricia/gestion-cursos)
 
