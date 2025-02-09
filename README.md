@@ -35,6 +35,10 @@ Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluc
 
 Aquí tienes algunos proyectos en los que he trabajado:
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestion-cursos)](https://github.com/DannaPatricia/gestion-cursos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestion-movilidad)](https://github.com/DannaPatricia/gestion-movilidad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=game-center)](https://github.com/DannaPatricia/game-center)
+
 1. [**🗓️ Game Center**](https://github.com/DannaPatricia/game-center): Una aplicación de venta y promoción de productos gaming, implementa base de datos con PhpMyAdmin (En proceso).
 2. [**📊 Gestiona Cursos**](https://github.com/DannaPatricia/gestion-cursos): Una aplicación de gestión de cursos para profesores que implementa una base de datos y usuarios (En proceso).
 3. [**🌍 Gestión de movilidad**](https://github.com/DannaPatricia/gestion-movilidad): Aplicación degestión de tráfico, hace uso de lectura y escritura de ficheros.
@@ -94,5 +98,6 @@ Si estás interesado/a en conectar, colaborar o discutir sobre tecnología, no d
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestion-cursos)](https://github.com/DannaPatricia/gestion-cursos)
+
+
 
