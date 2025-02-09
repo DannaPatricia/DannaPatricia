@@ -20,7 +20,7 @@ Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluc
 - 🎨 **CSS**: Estilos para darle vida a la interfaz de usuario.
 - ☕ **Java**: Backend robusto que maneja la lógica del servidor.
 - 🐘 **PHP**: Utilizado para ciertas funciones dinámicas en el servidor.
-- 🚀 **Node.js**: Para gestionar el backend con un enfoque moderno y eficiente utilizando JavaScript.
+- 🚀 **Vue.js**: Aún no se mucho pero voy a empzar un curso con muchas ganas 😄
 
 **Frameworks y Librerías**:  
 - ⚛️ Node.js  
