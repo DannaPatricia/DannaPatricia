@@ -94,5 +94,5 @@ Si estás interesado/a en conectar, colaborar o discutir sobre tecnología, no d
 
 ---
 
-![GitHub Issues](https://img.shields.io/github/issues/tu_usuario/tu_repositorio?style=flat-square&color=00bfae)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=DannaPatricia&bg_color=FFFFFF&color=08a2e0&line=08a2e0&point=000000&area=true)
 
