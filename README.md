@@ -26,7 +26,7 @@ Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluc
 - ⚛️ Node.js  
 
 **Bases de datos**:  
-- 🗃️ MongoDB, MySQL  
+- 🗃️ MySQL  
 
 **Herramientas y metodologías**:  
 - 🔧 Git  
