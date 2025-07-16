@@ -20,16 +20,20 @@ Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluc
 - 🎨 **CSS**: Estilos para darle vida a la interfaz de usuario.
 - ☕ **Java**: Backend robusto que maneja la lógica del servidor.
 - 🐘 **PHP**: Utilizado para ciertas funciones dinámicas en el servidor.
-- 🚀 **Vue.js**: Aún no se mucho pero voy a empezar un curso con muchas ganas 😄
+- 🚀 **Vue.js**: Framework progresivo de JavaScript que he utilizado intensamente para desarrollar interfaces reactivas, componentes reutilizables y experiencias de usuario dinámicas. Gracias a mis prácticas profesionales, he afianzado una base sólida en Vue, integrándolo eficazmente con otros lenguajes y tecnologías.
+- **Go (Golang)**: Lenguaje backend que he comenzado a aplicar durante mis prácticas, especialmente en la creación de APIs y servicios eficientes. He tenido la oportunidad de integrarlo con Vue.js, logrando una comunicación fluida entre frontend y backend mediante el uso de JSON, HTTP y estructuras RESTful.
 
 **Frameworks y Librerías**:  
-- ⚛️ Node.js  
+- ⚛️ Node.js
+- Vue.js
 
 **Bases de datos**:  
-- 🗃️ MySQL  
+- 🗃️ MySQL
+- PostgreSQL
 
 **Herramientas y metodologías**:  
-- 🔧 Git  
+- 🔧 Git
+- Gitea
 
 ## 📌 Proyectos Destacados
 
@@ -43,7 +47,7 @@ Aquí tienes algunos proyectos en los que he trabajado:
 
 1. [**🗓️ Game Center**](https://github.com/DannaPatricia/game-center): Una aplicación de venta y promoción de productos gaming, implementa base de datos con PhpMyAdmin (En proceso).
 2. [**📊 Gestiona Cursos**](https://github.com/DannaPatricia/gestion-cursos): Una aplicación de gestión de cursos para profesores que implementa una base de datos y usuarios (En proceso).
-3. [**🌍 Gestión de movilidad**](https://github.com/DannaPatricia/gestion-movilidad): Aplicación de gestión de tráfico, hace uso de lectura y escritura de ficheros.
+3. [**PokeApp**](https://github.com/DannaPatricia/PokeApp): Pequeña pokedex realizado con vue.js y una API de pokemon.
 4. [**⛵ Hundir la flota**](https://github.com/DannaPatricia/hundir-la-flota): Pequeño juego hecho con java puro, se juega en consola pero me divertí mucho haciéndolo.
 
 
