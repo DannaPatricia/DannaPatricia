@@ -15,24 +15,24 @@ Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluc
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 
-- 💻 **JavaScript**: Utilizado para la parte interactiva del frontend y la lógica del cliente.
-- 🌐 **HTML**: La estructura básica del sitio web.
-- 🎨 **CSS**: Estilos para darle vida a la interfaz de usuario.
-- ☕ **Java**: Backend robusto que maneja la lógica del servidor.
-- 🐘 **PHP**: Utilizado para ciertas funciones dinámicas en el servidor.
-- 🚀 **Vue.js**: Framework progresivo de JavaScript que he utilizado intensamente para desarrollar interfaces reactivas, componentes reutilizables y experiencias de usuario dinámicas. Gracias a mis prácticas profesionales, he afianzado una base sólida en Vue, integrándolo eficazmente con otros lenguajes y tecnologías.
+- **JavaScript**: Utilizado para la parte interactiva del frontend y la lógica del cliente.
+- **HTML**: Estructura fundamental de todas mis aplicaciones web. He trabajado extensamente con HTML5 para construir interfaces accesibles, semánticas y bien organizadas, lo que facilita tanto el diseño visual como la integración con frameworks modernos como Vue.js.
+- **CSS**: Utilizo CSS3 junto con herramientas como Flexbox, Grid para diseñar interfaces responsives, limpias y modernas.
+- **Java**:  Lenguaje de backend que he utilizado para desarrollar diversos proyectos. Tengo experiencia trabajando con Servlets y JSP, tecnologías clave en el desarrollo de aplicaciones web tradicionales con Java.
+- **PHP**: Utilizado en proyectos donde se requería interacción dinámica con el servidor. He implementado funcionalidades como manejo de formularios, sesiones y consultas a bases de datos MySQL, asegurando compatibilidad y eficiencia.
+- **Vue.js**: Framework progresivo de JavaScript que he utilizado intensamente para desarrollar interfaces reactivas, componentes reutilizables y experiencias de usuario dinámicas. Gracias a mis prácticas profesionales, he afianzado una base sólida en Vue, integrándolo eficazmente con otros lenguajes y tecnologías.
 - **Go (Golang)**: Lenguaje backend que he comenzado a aplicar durante mis prácticas, especialmente en la creación de APIs y servicios eficientes. He tenido la oportunidad de integrarlo con Vue.js, logrando una comunicación fluida entre frontend y backend mediante el uso de JSON, HTTP y estructuras RESTful.
 
 **Frameworks y Librerías**:  
-- ⚛️ Node.js
+- Node.js
 - Vue.js
 
 **Bases de datos**:  
-- 🗃️ MySQL
+- MySQL
 - PostgreSQL
 
 **Herramientas y metodologías**:  
-- 🔧 Git
+- Git
 - Gitea
 
 ## 📌 Proyectos Destacados
@@ -40,7 +40,7 @@ Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluc
 Aquí tienes algunos proyectos en los que he trabajado:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestion-cursos)](https://github.com/DannaPatricia/gestion-cursos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestion-movilidad)](https://github.com/DannaPatricia/gestion-movilidad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=PokeApp)](https://github.com/DannaPatricia/gestion-movilidad)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=game-center)](https://github.com/DannaPatricia/game-center)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=hundir-la-flota)](https://github.com/DannaPatricia/hundir-la-flota)
 
@@ -67,7 +67,7 @@ Aquí tienes algunos proyectos en los que he trabajado:
 
 ## 🤝 Colaboraciones
 
-Siempre estoy abierto/a a colaborar en proyectos emocionantes, así que si tienes algo en mente, ¡hablemos! 😎
+Siempre estoy abierta a colaborar en proyectos emocionantes, así que si tienes algo en mente, ¡hablemos! 😎
 
 ---
 
