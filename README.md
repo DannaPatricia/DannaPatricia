@@ -79,7 +79,7 @@ Actualmente, estoy buscando nuevas oportunidades laborales donde pueda seguir ap
 
 ### ⚡ Fun Facts
 
-- Me encanta **aprender** sobre buneas prácticas para aplicar en el código.
+- Me encanta **aprender** buenas prácticas para poder ofrecer un código legible.
 - En mi tiempo libre juego pokemon además de disfrutar mejorando algunos de los proyectos, aún en proceso, mientras escucho música.
 - Actualmente estoy muy interesada en aprender sobre ciberseguridad y machine learning.
 
