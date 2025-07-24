@@ -1,6 +1,6 @@
 # Hola, soy **Danna Patricia** 👋😄
 
-Soy una **aprendiz de desarrollo web** apasionada por **buscar las mejores soluciones tecnológicas** y **aprender nuevas tecnologías**. Actualmente me especializo en **desarrollo web**, pero siempre estoy dispuesta a aprender algo nuevo, me encanta colaborar en proyectos que hagan la diferencia. 🚀
+Soy **técnia superior en desarrollo web** apasionada por **buscar las mejores soluciones tecnológicas** y **aprender nuevas tecnologías**. Actualmente me especializo en **desarrollo web**, pero siempre estoy dispuesta a aprender algo nuevo, me encanta colaborar en proyectos que hagan la diferencia. 🚀
 
 ## 🔧 Mis habilidades técnicas
 
