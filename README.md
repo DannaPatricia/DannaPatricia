@@ -39,13 +39,13 @@ Soy **técnia superior en desarrollo web** apasionada por **buscar las mejores s
 
 Aquí tienes algunos proyectos en los que he trabajado:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=gestion-cursos)](https://github.com/DannaPatricia/gestion-cursos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=PokeApp)](https://github.com/DannaPatricia/gestion-movilidad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=Soporte-Tecnico-App)](https://github.com/DannaPatricia/Soporte-Tecnico-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=PokeApp)](https://github.com/DannaPatricia/PokeApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=game-center)](https://github.com/DannaPatricia/game-center)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=hundir-la-flota)](https://github.com/DannaPatricia/hundir-la-flota)
 
 
-1. [**🗓️ Game Center**](https://github.com/DannaPatricia/game-center): Una aplicación de venta y promoción de productos gaming, implementa base de datos con PhpMyAdmin (En proceso).
+1. [**🗓️ Soporte Tecnico App**](https://github.com/DannaPatricia/Soporte-Tecnico-App): Primera aplicación realizada con vue y go, realizada durante las prácticas de mi formación junto a un compañero.
 2. [**📊 Gestiona Cursos**](https://github.com/DannaPatricia/gestion-cursos): Una aplicación de gestión de cursos para profesores que implementa una base de datos y usuarios (En proceso).
 3. [**PokeApp**](https://github.com/DannaPatricia/PokeApp): Pequeña pokedex realizado con vue.js y una API de pokemon.
 4. [**⛵ Hundir la flota**](https://github.com/DannaPatricia/hundir-la-flota): Pequeño juego hecho con java puro, se juega en consola pero me divertí mucho haciéndolo.
