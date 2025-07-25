@@ -45,7 +45,7 @@ Aquí tienes algunos proyectos en los que he trabajado:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=hundir-la-flota)](https://github.com/DannaPatricia/hundir-la-flota)
 
 
-1. [**🗓️ Soporte Tecnico App**](https://github.com/DannaPatricia/Soporte-Tecnico-App): Primera aplicación realizada con vue y go, realizada durante las prácticas de mi formación junto a un compañero.
+1. [**🗓️ Soporte Tecnico App**](https://github.com/DannaPatricia/Soporte-Tecnico-App): Primera aplicación realizada con vue (frontend) y go (backend con postgres) durante las prácticas de mi formación profesional junto a un compañero.
 2. [**📊 Gestiona Cursos**](https://github.com/DannaPatricia/gestion-cursos): Una aplicación de gestión de cursos para profesores que implementa una base de datos y usuarios (En proceso).
 3. [**PokeApp**](https://github.com/DannaPatricia/PokeApp): Pequeña pokedex realizado con vue.js y una API de pokemon.
 4. [**⛵ Hundir la flota**](https://github.com/DannaPatricia/hundir-la-flota): Pequeño juego hecho con java puro, se juega en consola pero me divertí mucho haciéndolo.
