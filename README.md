@@ -61,7 +61,7 @@ Aquí tienes algunos proyectos en los que he trabajado:
 
 - [🔗 **LinkedIn**](https://www.linkedin.com/in/dannapatricia/)
 - [💼 **Portfolio**](https://dannapatricia.github.io/DannaPatriciaPortafolio/)
-- [🔗 **Currículum**](https://drive.google.com/file/d/1qa1G2-CXxUFlOAaIdHFq6w54nmFPPWM8/view?usp=drive_link)
+- [🔗 **Currículum**](https://drive.google.com/file/d/1gm6w75wXQVy6dkQ9yhz5_DVHm0ekrblM/view?usp=drive_link)
 - [📧 **Email**](mailto:dannapatriciacm@gmail.com)
 
 
